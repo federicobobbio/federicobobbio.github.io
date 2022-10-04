@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. Candidate at Université de Montréal"
   location         : "Montréal, Canada"
   employer         :
-  pubmed           : "Jqzu2xcAAAAJ"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=Jqzu2xcAAAAJ&hl=en&oi=ao"
   email            : "federico.bobbio@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
