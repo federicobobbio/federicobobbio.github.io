@@ -17,4 +17,4 @@ I graduated with a Master Thesis exploring the connection between Logic and Stra
 
 
 
-I am currently focusing my interests at the intersection of Matching Theory, Mathematical Programming and Computational Complexity. 
+I am currently focusing my interests at the intersection of Matching Theory, Mathematical Optimization and Computational Complexity. 
