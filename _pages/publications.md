@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications.... Opsss under construction"
+title: "Publications.... Oooops under construction"
 permalink: /publications/
 author_profile: true
 ---
