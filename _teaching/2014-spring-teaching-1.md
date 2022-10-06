@@ -8,3 +8,4 @@ date: Autumn 2021, Winter 2022, Autumn 2022
 location: "Montréal, Canada"
 ---
 
+Autumn 2021, Winter 2022, Autumn 2022
