@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications.... Oooops under construction"
-permalink: /publications/
+title: "Research.... under construction"
+permalink: /research/
 author_profile: true
 ---
 
