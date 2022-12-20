@@ -1,5 +1,5 @@
 ---
-title: "A plausibility model for regret games"
+title: "A Plausibility Model for Regret Games"
 collection: research
 permalink: /research/plausibility-model-regret-games
 excerpt: 'This paper provides a new notion of regret-rationality within the framework of a plausibility model (Epistemic Logic).'
