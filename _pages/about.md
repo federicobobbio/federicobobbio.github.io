@@ -16,16 +16,17 @@ Before starting my Ph.D., I was research assistant of [Pierpaolo Battigalli](htt
 I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. For the purpose of my research I visited [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/). 
 
 
-Research interests: Matching Theory, Mathematical Optimization and Computational Complexity. 
+**Research interests**: Matching Theory, Mathematical Optimization and Computational Complexity. 
 
-Selected awards:
-Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/)
-Excellence Scholarship (2021) - Department of Computer Science and Operations Research, University of Montreal
-First place - [AI for TSP Competition (IJCAI 2021)](https://www.tspcompetition.com/)
-Excellence Scholarship (2020) - Department of Computer Science and Operations Research, University of Montreal
+**Selected awards**:
+Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/)\
+Excellence Scholarship (2021) - Department of Computer Science and Operations Research, University of Montreal\
+First place - [AI for TSP Competition (IJCAI 2021)](https://www.tspcompetition.com/)\
+Excellence Scholarship (2020) - Department of Computer Science and Operations Research, University of Montreal\
 Merit Scholarship (2019-2020) - University of Montreal
 
-Affiliations:
-[Canada Excellence Research Chair in Data Science](https://cerc-datascience.polymtl.ca/)
-[FRQ–IVADO Research Chair in Data Science for Combinatorial Game Theory](http://margaridacarvalho.org/chair.html)
+
+**Affiliations**:
+[Canada Excellence Research Chair in Data Science](https://cerc-datascience.polymtl.ca/)\
+[FRQ–IVADO Research Chair in Data Science for Combinatorial Game Theory](http://margaridacarvalho.org/chair.html)\
 [CIRRELT](https://www.cirrelt.ca/)
