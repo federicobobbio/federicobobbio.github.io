@@ -27,6 +27,6 @@ Merit Scholarship (2019-2020) - University of Montreal
 
 
 **Affiliations**:\
-[Canada Excellence Research Chair in Data Science](https://cerc-datascience.polymtl.ca/)\
+[Canada Excellence Research Chair in Data Science for Real-Time Decision-Making](https://cerc-datascience.polymtl.ca/)\
 [FRQ–IVADO Research Chair in Data Science for Combinatorial Game Theory](http://margaridacarvalho.org/chair.html)\
 [CIRRELT](https://www.cirrelt.ca/)
