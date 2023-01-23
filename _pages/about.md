@@ -32,6 +32,6 @@ Merit Scholarship (2019-2020) - Université de Montréal
 [CIRRELT](https://www.cirrelt.ca/)
 
 
-(++): I was honored to work with Warley Almeida Silva, Federico Bobbio, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud
+(++): I was honored to work with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud
 
 (+): I was honored to work with Warley Almeida Silva, Caroline Leboeuf, Justine Pepin, Carl Perreault-Lafleur
