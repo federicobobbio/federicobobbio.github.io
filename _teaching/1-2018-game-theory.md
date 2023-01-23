@@ -4,7 +4,7 @@ collection: teaching
 type: "Game Theory"
 permalink: /teaching/2018-spring-Game Theory
 venue: "Bocconi University, Department of Decision Sciences"
-date: Spring 2018
+date: 2021-01-01
 location: "Milan, Italy"
 ---
 
