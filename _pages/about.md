@@ -18,13 +18,13 @@ I completed my Master in Theoretical Mathematics graduating with summa cum laude
 
 **Research interests**: Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
 
-**Selected awards**:\
-Bourse d’excellence au doctorat – Rédaction (2023) - CIRRELT\
-Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/) - Joint work (++)\
-Excellence Scholarship (2021) - DIRO, Université de Montréal\
-First place - [AI for TSP Competition (IJCAI 2021)](https://www.tspcompetition.com/) - Joint work (+)\
-Excellence Scholarship (2020) - DIRO, Université de Montréal\
-Merit Scholarship (2019-2020) - Université de Montréal
+## **Selected awards**:
+* Bourse d’excellence au doctorat – Rédaction (2023) - CIRRELT
+* Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/) - ### Joint work Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud (++)
+* Excellence Scholarship (2021) - DIRO, Université de Montréal
+* First place - [AI for TSP Competition (IJCAI 2021)](https://www.tspcompetition.com/) - Joint work Warley Almeida Silva, Caroline Leboeuf, Justine Pepin, Carl Perreault-Lafleur (+)
+* Excellence Scholarship (2020) - DIRO, Université de Montréal
+* Merit Scholarship (2019-2020) - Université de Montréal
 
 
 **Affiliations**:\
