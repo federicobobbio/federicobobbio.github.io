@@ -27,7 +27,7 @@ I completed my Master in Theoretical Mathematics graduating with summa cum laude
 * Merit Scholarship (2019-2020) - Université de Montréal
 
 
-## **Affiliations**:\
+## **Affiliations**:
 * [Canada Excellence Research Chair in Data Science for Real-Time Decision-Making](https://cerc-datascience.polymtl.ca/)\
 * [FRQ–IVADO Research Chair in Data Science for Combinatorial Game Theory](http://margaridacarvalho.org/chair.html)\
 * [CIRRELT](https://www.cirrelt.ca/)
