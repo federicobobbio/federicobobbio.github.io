@@ -16,7 +16,8 @@ Before starting my Ph.D., I was research assistant of [Pierpaolo Battigalli](htt
 I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. For the purpose of my research I visited [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/). 
 
 
-## **Research interests**: Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
+## **Research interests**:
+Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
 
 ## **Selected awards**:
 * Bourse d’excellence au doctorat – Rédaction (2023) - CIRRELT
