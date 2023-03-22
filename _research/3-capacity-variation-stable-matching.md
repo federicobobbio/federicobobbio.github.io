@@ -1,7 +1,7 @@
 ---
 title: "Capacity Variation in the Many-to-one Stable Matching"
 collection: research
-permalink: /research/capacity-variation-stable-matching
+permalink: /research/3-capacity-variation-stable-matching
 excerpt: ''
 paperurl: 'https://arxiv.org/pdf/2205.01302.pdf'
 ---
