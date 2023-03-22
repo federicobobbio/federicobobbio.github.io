@@ -1,9 +1,9 @@
 ---
 title: "Capacity Planning in Stable Matching: An Application to School Choice"
 collection: research
-permalink: /research/capacity-planning
-excerpt: 'Assignment mechanisms for many-to-one matching markets with preferences revolve around the key concept of stability. Using school choice as our matching market application, introduce the problem of jointly allocating a school capacity expansion and finding the best stable allocation for the students in the expanded market. We analyze theoretically the problem, focusing on the trade-off behind the multiplicity of student-optimal assignments, the incentive properties, and the problem’s complexity. In addition, we propose a novel mixed-integer linear programming formulation that is exponentially-large on the problem size. We show that its stability constraints can be separated in linear time, leading to an effective cutting-plane method, which outperforms mixed-integer programming solvers applied to the formulations obtained by extending existing approaches.'
-paperurl: '[Preprint](https://arxiv.org/pdf/2110.00734.pdf)'
+permalink: /research/2-capacity-planning
+excerpt: ''
+paperurl: 'https://arxiv.org/pdf/2110.00734.pdf'
 ---
 Assignment mechanisms for many-to-one matching markets with preferences revolve around the key con-
 cept of stability. Using school choice as our matching market application, we introduce the problem of
@@ -24,5 +24,4 @@ the assignment of previously unassigned students or improve the assignment of se
 improvement chains. These insights empower the decision-maker in tuning the matching algorithm to provide
 a fair application-oriented solution.
 
-[Download paper here](https://arxiv.org/pdf/2110.00734.pdf)
 
