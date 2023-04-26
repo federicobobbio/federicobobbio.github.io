@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant yo [en français]"
+title: "Teaching Assistant [en français]"
 collection: teaching
 type: "Models of Operations Research"
 permalink: /teaching/2021-Autumn-teaching-1
