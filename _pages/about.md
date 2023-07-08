@@ -16,7 +16,7 @@ Before starting my Ph.D., I was research assistant of [Pierpaolo Battigalli](htt
 I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. For the purpose of my research I visited [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/). 
 
 Since a couple of years, first with Gabriele Dragotto, now with Defeng Liu and Léa Ricard, I have been organizing the [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/). 
-This year I am honored to serve as the treasurer of [EAAMO 2023](https://eaamo.org/) conference, which aims to highlight works in algorithmic, optimization, and mechanism design that help improve equity and access!
+This year I am honored to serve as the treasurer of [EAAMO 2023](https://eaamo.org/) conference, which aims to highlight works in algorithmic, optimization, and mechanism design that help improve equity and access.
 
 ## **Research interests**:
 Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
