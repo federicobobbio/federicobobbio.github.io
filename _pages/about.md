@@ -15,7 +15,7 @@ Before starting my Ph.D., I was research assistant of [Pierpaolo Battigalli](htt
 
 I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. For the purpose of my research I visited [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/). 
 
-Together with Defeng Liu and Léa Ricard, I have been organizing the [Decision Science for Decision Making coffee seminars](https://cerc-datascience.polymtl.ca/coffee/). I am also a member of the CIRRELT student committee. 
+Together with Defeng Liu and Léa Ricard, I have been organizing the [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/). I am also a member of the CIRRELT student committee. 
 
 ## **Research interests**:
 Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
