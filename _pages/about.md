@@ -20,7 +20,7 @@ I completed my Master in Theoretical Mathematics graduating with summa cum laude
 Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
 
 ## **Selected awards**:
-* (Student Paper Competition)[https://www.cors.ca/?q=content/student-paper-competition] – Runner-up award - Canadian Operational Research Society
+* [Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) – Runner-up award - Canadian Operational Research Society
 * Bourse d’excellence au doctorat – Rédaction (2023) - CIRRELT
 * Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/) - Joint work with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud
 * Excellence Scholarship (2021) - DIRO, Université de Montréal
