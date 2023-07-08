@@ -15,13 +15,14 @@ Before starting my Ph.D., I was research assistant of [Pierpaolo Battigalli](htt
 
 I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. For the purpose of my research I visited [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/). 
 
+Together with Defeng Liu and Léa Ricard, I have been organizing the [Decision Science for Decision Making coffee seminars](https://cerc-datascience.polymtl.ca/). I am also a member of the CIRRELT student committee. 
 
 ## **Research interests**:
 Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
 
 ## **Selected awards**:
-* [Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) – Runner-up award - Canadian Operational Research Society
-* Bourse d’excellence au doctorat – Rédaction (2023) - CIRRELT
+* Runner-up award -[Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) (2023) – Canadian Operational Research Society
+* Excellence Scholarship – Rédaction thèse de doctorat (2023) - CIRRELT
 * Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/) - Joint work with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud
 * Excellence Scholarship (2021) - DIRO, Université de Montréal
 * First place - [AI for TSP Competition (IJCAI 2021)](https://www.tspcompetition.com/) - Joint work with Warley Almeida Silva, Caroline Leboeuf, Justine Pepin, Carl Perreault-Lafleur
