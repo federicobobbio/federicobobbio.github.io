@@ -21,7 +21,7 @@ Together with Defeng Liu and Léa Ricard, I have been organizing the [Decision S
 Matching Theory, Mathematical Optimization, Game Theory and Computational Complexity. 
 
 ## **Selected awards**:
-* Runner-up award -[Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) (2023) – Canadian Operational Research Society
+* Runner-up award - [Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) (2023) – Canadian Operational Research Society
 * Excellence Scholarship – Rédaction thèse de doctorat (2023) - CIRRELT
 * Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/) - Joint work with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud
 * Excellence Scholarship (2021) - DIRO, Université de Montréal
