@@ -32,7 +32,7 @@ Matching Theory, Mathematical Optimization, Game Theory and Computational Comple
 
 
 ## **Affiliations**:
-* [Canada Excellence Research Chair in Data Science for Real-Time Decision-Making](https://cerc-datascience.polymtl.ca/)\
-* [FRQ–IVADO Research Chair in Data Science for Combinatorial Game Theory](http://margaridacarvalho.org/chair.html)\
+* [Canada Excellence Research Chair in Data Science for Real-Time Decision-Making](https://cerc-datascience.polymtl.ca/)
+* [FRQ–IVADO Research Chair in Data Science for Combinatorial Game Theory](http://margaridacarvalho.org/chair.html)
 * [CIRRELT](https://www.cirrelt.ca/) - also member of the student committee
 
