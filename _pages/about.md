@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. Candidate in Computer Science and Operations Research at Université de Montréal, where I work with [Margarida Carvalho](http://margaridacarvalho.org). 
 
-Before starting my Ph.D., I was research assistant of [Pierpaolo Battigalli](https://dec.unibocconi.eu/people/pierpaolo-battigalli) on the project "Reasoning About Strategic Interaction and Emotions."
+Before starting my Ph.D., I worked as a research assistant on the project "Reasoning About Strategic Interaction and Emotions" led by [Pierpaolo Battigalli](https://dec.unibocconi.eu/people/pierpaolo-battigalli). 
 
 I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. For the purpose of my research I visited [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/). 
 
