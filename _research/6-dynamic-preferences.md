@@ -1,9 +1,9 @@
 ---
-title: "Capacity Planning in Stable Matching: An Application to School Choice"
+title: "Stable Matching with Adaptive Priorities"
 collection: research
 permalink: /research/6-dynamic-preferences
 excerpt: ''
-paperurl: 'https://arxiv.org/pdf/2110.00734.pdf](https://eaamo.org/papers/'
+paperurl: '[https://arxiv.org/pdf/2110.00734.pdf](https://eaamo.org/papers/)'
 ---
 We study the problem of finding a stable matching under adaptive priorities, whereby the clearinghouse prioritizes some agents based on the allocation of others, and we use school choice as a motivating example. 
 To accomplish this, we introduce a stylized model of a two-sided matching market with siblings' priorities. 
