@@ -1,5 +1,5 @@
 ---
-title: "Capacity Planning in Stable Matching: An Application to School Choice"
+title: "Capacity Planning in Stable Matching"
 collection: research
 permalink: /research/2-capacity-planning
 excerpt: ''
