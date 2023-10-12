@@ -2,7 +2,7 @@
 title: "Stable Matching with Adaptive Priorities"
 collection: research
 permalink: /research/6-dynamic-preferences
-excerpt: ''
+excerpt: 'joint work with Margarida Carvalho, Ignacio Rios and Alfredo Torrico'
 paperurl: 'https://eaamo.org/papers/'
 ---
 We study the problem of finding a stable matching under adaptive priorities, whereby the clearinghouse prioritizes some agents based on the allocation of others, and we use school choice as a motivating example. 
