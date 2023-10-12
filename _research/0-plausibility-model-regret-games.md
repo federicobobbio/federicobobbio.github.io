@@ -2,7 +2,7 @@
 title: "A Plausibility Model for Regret Games"
 collection: research
 permalink: /research/0-plausibility-model-regret-games
-excerpt: 'with Jianying Cui'
+excerpt: 'with Jianying Cui.'
 date: 2017-12-14
 venue: 'Multi-Agent Systems and Agreement Technologies'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-01713-2_14'
