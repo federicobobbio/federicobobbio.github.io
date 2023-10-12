@@ -2,7 +2,7 @@
 title: "Optimizing the design of a loyalty program"
 collection: research
 permalink: /research/1-design-program
-excerpt: 'with Margarida Carvalho, Adel Nabli, Sriram Sankaranarayanan, Simon Germain, Mohamed Ossama Hassan, Bassirou Ndao, Genevieve Page, Jeremy Piche-Bisson, Vincent Purenne, Russel Shaul'
+excerpt: 'with Margarida Carvalho, Adel Nabli, Sriram Sankaranarayanan, Simon Germain, Mohamed Ossama Hassan, Bassirou Ndao, Genevieve Page, Jeremy Piche-Bisson, Vincent Purenne, Russel Shaul.'
 date: 2020-10-1
 venue: 'Les Cahiers du GERAD - proceedings of the ninth Montreal industrial problem solving workshop'
 paperurl: 'http://www.crm.umontreal.ca/probindustriels2019/wp-content/uploads/2021/01/G2057.pdf'
