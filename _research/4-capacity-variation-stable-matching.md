@@ -1,7 +1,7 @@
 ---
 title: "Capacity Variation in the Many-to-one Stable Matching"
 collection: research
-permalink: /research/3-capacity-variation-stable-matching
+permalink: /research/4-capacity-variation-stable-matching
 excerpt: 'with Margarida Carvalho, Andrea Lodi, Alfredo Torrico. Under review.'
 paperurl: 'https://arxiv.org/pdf/2205.01302.pdf'
 ---
