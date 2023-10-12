@@ -1,7 +1,7 @@
 ---
 title: "A Plausibility Model for Regret Games"
 collection: research
-permalink: /research/1-plausibility-model-regret-games
+permalink: /research/0-plausibility-model-regret-games
 excerpt: ''
 date: 2017-12-14
 venue: 'Multi-Agent Systems and Agreement Technologies'
