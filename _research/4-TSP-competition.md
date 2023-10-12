@@ -2,7 +2,7 @@
 title: "The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems"
 collection: research
 permalink: /research/4-TSP-competition
-excerpt: ''
+excerpt: 'with Warley Almeida Silva, Caroline Leboeuf, Justine Pepin, Carl Perreault-Lafleur. First place at AI-4-TSP competition (IJCAI 2021).'
 date: 2023-06-01
 venue: 'Artificial Intelligence, Volume 319'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0004370223000644'
