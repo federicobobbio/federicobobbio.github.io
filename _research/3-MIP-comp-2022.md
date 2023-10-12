@@ -2,7 +2,7 @@
 title: "Design and Implementation of an Heuristic-Enhanced Branch-and-Bound Solver for MILP"
 collection: research
 permalink: /research/3-MIP-comp-2022
-excerpt: 'with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud. **Outstanding Student Submission at MIP Competition 2021**. Presented at MIP 2021.'
+excerpt: 'with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud. **Outstanding Student Submission at MIP Competition 2021**. Poster presented at MIP 2021.'
 paperurl: 'https://arxiv.org/pdf/2206.01857.pdf'
 ---
 
