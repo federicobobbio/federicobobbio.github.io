@@ -1,7 +1,7 @@
 ---
 title: "Optimizing the design of a loyalty program"
 collection: research
-permalink: /research/0-design-program
+permalink: /research/1-design-program
 excerpt: ''
 date: 2020-10-1
 venue: 'Les Cahiers du GERAD - proceedings of the ninth Montreal industrial problem solving workshop'
