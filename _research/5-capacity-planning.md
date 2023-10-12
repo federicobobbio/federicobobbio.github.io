@@ -2,7 +2,7 @@
 title: "Capacity Planning in Stable Matching"
 collection: research
 permalink: /research/2-capacity-planning
-excerpt: ''
+excerpt: 'with Margarida Carvalho, Andrea Lodi, Ignacio Rios and Alfredo Torrico. Accepted at MATCH-UP 2022, EAAMO 2022, EC 2023.'
 paperurl: 'https://arxiv.org/pdf/2110.00734.pdf'
 ---
 Assignment mechanisms for many-to-one matching markets with preferences revolve around the key con-
