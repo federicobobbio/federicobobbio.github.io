@@ -1,5 +1,5 @@
 ---
-title: "Stable Matching with Adaptive Priorities"
+title: "Stable Matching with Dynamic Priorities"
 collection: research
 permalink: /research/6-dynamic-preferences
 excerpt: 'with Margarida Carvalho, Ignacio Rios and Alfredo Torrico. Accepted at EAAMO 2023.'
