@@ -15,7 +15,7 @@ Before starting my Ph.D., I worked as a research assistant on the project "Reaso
 I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. 
 
 I have been co-organizing the [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/), focusing on works at the intersection of game theory, mathematical optimization, and machine learning. 
-This year I am also honored to serve as the treasurer of [EAAMO 2023](https://eaamo.org/) conference, which aims to highlight works in algorithmic, optimization, and mechanism design that help improve equity and access.
+This year I am also honoured to serve as the treasurer of [EAAMO 2023](https://eaamo.org/) conference, which aims to highlight works in algorithmic, optimization, and mechanism design that help improve equity and access.
 
 ## **Research interests**:
 Matching theory, mathematical optimization, game theory and computational complexity. 
