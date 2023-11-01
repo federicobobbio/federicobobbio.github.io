@@ -24,9 +24,8 @@ Matching theory, mathematical optimization, game theory and computational comple
 * Runner-up award - [Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) (2023) – Canadian Operational Research Society
 * Excellence Scholarship – Rédaction thèse de doctorat (2023) - CIRRELT
 * Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/) - Joint work with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud
-* Excellence Scholarship (2021) - DIRO, Université de Montréal
+* Excellence Scholarship (2020, 2021) - DIRO, Université de Montréal
 * First place - [AI for TSP Competition (IJCAI 2021)](https://www.tspcompetition.com/) - Joint work with Warley Almeida Silva, Caroline Leboeuf, Justine Pepin, Carl Perreault-Lafleur
-* Excellence Scholarship (2020) - DIRO, Université de Montréal
 * Merit Scholarship (2019-2020) - Université de Montréal
 
 
