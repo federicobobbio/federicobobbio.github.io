@@ -11,34 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science and Operations Research, University of Montreal, January 2024 (expected)
+* M.Sc. in Theoretical Mathematics, University of Pisa, 2017 (summa cum laude)
+* B.S. in Mathematics, University of Pavia, 2012
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2017 to November 2018: Research Assistant
+  * Bocconi University
+  * Supervisor: Professor Battigalli
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
