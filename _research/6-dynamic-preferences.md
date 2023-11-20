@@ -3,7 +3,7 @@ title: "Stable Matching with Dynamic Priorities"
 collection: research
 permalink: /research/6-dynamic-preferences
 excerpt: 'with Margarida Carvalho, Ignacio Rios and Alfredo Torrico. Accepted at EAAMO 2023.'
-paperurl: 'https://eaamo.org/papers/'
+paperurl: 'https://eaamo.org/papers/EAAMO23_paper_152.pdf'
 ---
 We study the problem of finding a stable matching under adaptive priorities, whereby the clearinghouse prioritizes some agents based on the allocation of others, and we use school choice as a motivating example. 
 To accomplish this, we introduce a stylized model of a two-sided matching market with siblings' priorities. 
