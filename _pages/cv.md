@@ -55,3 +55,8 @@ Service
 ======
 * DS4DM Coffee Talks
 * Treasurer of the 2023 ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization
+
+Software
+======
+* Python (Gurobi)
+
