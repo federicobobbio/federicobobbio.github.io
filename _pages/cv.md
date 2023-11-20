@@ -51,7 +51,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * DS4DM Coffee Talks
 * Treasurer of the 2023 ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization
