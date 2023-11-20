@@ -43,4 +43,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* DS4DM Coffee Talks
+* Treasurer of the 2023 ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization
