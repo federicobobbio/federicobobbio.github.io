@@ -28,8 +28,18 @@ Research
   <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards (selected):
+======
+* Runner-up award - [Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) (2023) – Canadian Operational Research Society
+* Excellence Scholarship – Rédaction thèse de doctorat (2023) - CIRRELT
+* Outstanding student submission - [MIP 2022 Computational Competition](https://www.mixedinteger.org/2022/competition/) - Joint work with Warley Almeida Silva, Flore Caye, Defeng Liu, Justine Pepin, Carl Perreault-Lafleur, William St-Arnaud
+* Excellence Scholarship (2020, 2021) - DIRO, Université de Montréal
+* First place - [AI for TSP Competition (IJCAI 2021)](https://www.tspcompetition.com/) - Joint work with Warley Almeida Silva, Caroline Leboeuf, Justine Pepin, Carl Perreault-Lafleur
+* Merit Scholarship (2019-2020) - Université de Montréal
+
   
-Talks
+Talks (selected)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
