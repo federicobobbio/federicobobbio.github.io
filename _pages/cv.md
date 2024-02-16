@@ -9,18 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Computer Science and Operations Research, University of Montreal, January 2024 (expected)
-* M.Sc. in Theoretical Mathematics, University of Pisa, 2017 (summa cum laude)
-* B.S. in Mathematics, University of Pavia, 2012
 
 
 Work experience
 ======
+* January 2025: Postdoctoral researcher at [CERC DS4DM](https://cerc-datascience.polymtl.ca/)
 * November 2017 to November 2018: Research Assistant
   * Bocconi University
   * Supervisor: Professor Battigalli
+
+
+Education
+======
+* Ph.D. in Computer Science and Operations Research, University of Montreal, January 2024 (excellence mention)
+* M.Sc. in Theoretical Mathematics, University of Pisa, 2017 (summa cum laude)
+* B.S. in Mathematics, University of Pavia, 2012
+
 
 
 Research
