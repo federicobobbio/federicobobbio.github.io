@@ -7,15 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Postdoctoral researcher at [CERC DS4DM](https://cerc-datascience.polymtl.ca/). 
 
+I completed my Ph.D. in Computer Science and Operations Research at Université de Montréal (excellence mention), having had the tremendous fortune of receiving guidance from [Margarida Carvalho](http://margaridacarvalho.org). 
 
-I am a Ph.D. Candidate in Computer Science and Operations Research at Université de Montréal, where I work with [Margarida Carvalho](http://margaridacarvalho.org). 
-
-Before starting my Ph.D., I worked as a research assistant on the project "Reasoning About Strategic Interaction and Emotions" led by [Pierpaolo Battigalli](https://dec.unibocconi.eu/people/pierpaolo-battigalli). 
-I completed my Master in Theoretical Mathematics graduating with summa cum laude. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. 
+Before my Ph.D., I worked as a research assistant on the project "Reasoning About Strategic Interaction and Emotions" led by [Pierpaolo Battigalli](https://dec.unibocconi.eu/people/pierpaolo-battigalli). 
+I completed my Master in Theoretical Mathematics (summa cum laude) at the University of Pisa. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. 
 
 I have been co-organizing the [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/), focusing on works at the intersection of game theory, mathematical optimization, and machine learning. 
-This year I am also honoured to serve as the treasurer of [EAAMO 2023](https://eaamo.org/) conference, which aims to highlight works in algorithmic, optimization, and mechanism design that help improve equity and access.
 
 ## **Research interests**:
 Matching theory, mathematical optimization, game theory and computational complexity. 
@@ -29,8 +28,13 @@ Matching theory, mathematical optimization, game theory and computational comple
 * Merit Scholarship (2019-2020) - Université de Montréal
 
 
+
 ## **Affiliations**:
 * [Canada Excellence Research Chair in Data Science for Real-Time Decision-Making](https://cerc-datascience.polymtl.ca/)
-* [FRQ–IVADO Research Chair in Data Science for Combinatorial Game Theory](http://margaridacarvalho.org/chair.html)
 * [CIRRELT](https://www.cirrelt.ca/) - also member of the student committee
+* [GERAD](https://www.gerad.ca/en)
+
+## **Past activities**:
+* Treasurer of [EAAMO 2023](https://eaamo.org/)
+* Volunteering and leadership with [Senzatomica](https://senzatomica.it/) (partner with [ICAN](https://www.icanw.org/)) 
 
