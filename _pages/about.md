@@ -17,7 +17,7 @@ I completed my Master in Theoretical Mathematics (summa cum laude) at the Univer
 I have been co-organizing the [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/), focusing on works at the intersection of game theory, mathematical optimization, and machine learning. 
 
 ## **Research interests**:
-Matching theory, mathematical optimization, game theory and computational complexity. 
+Algorithmic polycimaking and regulations, computational complexity, game theory, matching theory, mathematical optimization. 
 
 ## **Selected awards**:
 * Runner-up award - [Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) (2023) – Canadian Operational Research Society
