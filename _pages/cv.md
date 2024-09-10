@@ -13,17 +13,23 @@ redirect_from:
 
 Work experience
 ======
-* January 2025: Postdoctoral researcher at [CERC DS4DM](https://cerc-datascience.polymtl.ca/)
+* June 2024: Postdoctoral Researcher at Northwestern University
+  * Northwestern University
+  * Advisors: Mike Honig, Randy Berry, Ricky Vohra, Thanh Nguyen, Vijay Subramanian
+* January 2024 to Summer 2024: Researcher Consultant at [CERC DS4DM](https://cerc-datascience.polymtl.ca/)
 * November 2017 to November 2018: Research Assistant
   * Bocconi University
-  * Supervisor: Professor Battigalli
+  * Advisor: Pierpaolo Battigalli
 
 
 Education
 ======
 * Ph.D. in Computer Science and Operations Research, University of Montreal, January 2024 (excellence mention)
+  * Advisor: Margarida Carvalho
 * M.Sc. in Theoretical Mathematics, University of Pisa, 2017 (summa cum laude)
+  * Advisor: Alessandro Berarducci
 * B.S. in Mathematics, University of Pavia, 2012
+  * Advisor: Ludovico Pernazza
 
 
 
