@@ -7,17 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral researcher at [CERC DS4DM](https://cerc-datascience.polymtl.ca/). 
+
+I am a Postdoctoral Researcher at [Spectrum X](https://www.spectrumx.org/), affiliated with Northwestern University. I have the privilege of working with [Mike Honig](http://users.ece.northwestern.edu/~mh/), [Randy Berry](http://users.ece.northwestern.edu/~rberry/), [Ricky Vohra](https://sites.google.com/site/quaerereverum9/), [Thanh Nguyen](https://web.ics.purdue.edu/~nguye161/), and [Vijay Subramanian](https://subramanian.engin.umich.edu/).
+
+Prior to this role, I was a Research Consultant at [CERC DS4DM](https://cerc-datascience.polymtl.ca/). 
 
 I completed my Ph.D. in Computer Science and Operations Research at Université de Montréal (excellence mention), having had the tremendous fortune of receiving guidance from [Margarida Carvalho](http://margaridacarvalho.org). 
 
 Before my Ph.D., I worked as a research assistant on the project "Reasoning About Strategic Interaction and Emotions" led by [Pierpaolo Battigalli](https://dec.unibocconi.eu/people/pierpaolo-battigalli). 
 I completed my Master in Theoretical Mathematics (summa cum laude) at the University of Pisa. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. 
 
-I have been co-organizing the [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/), focusing on works at the intersection of game theory, mathematical optimization, and machine learning. 
 
 ## **Research interests**:
 Algorithmic polycimaking and regulations, computational complexity, game theory, matching theory, mathematical optimization. 
+
 
 ## **Selected awards**:
 * Runner-up award - [Student Paper Competition](https://www.cors.ca/?q=content/student-paper-competition) (2023) – Canadian Operational Research Society
@@ -28,13 +31,13 @@ Algorithmic polycimaking and regulations, computational complexity, game theory,
 * Merit Scholarship (2019-2020) - Université de Montréal
 
 
-
 ## **Affiliations**:
-* [Canada Excellence Research Chair in Data Science for Real-Time Decision-Making](https://cerc-datascience.polymtl.ca/)
-* [CIRRELT](https://www.cirrelt.ca/) - also member of the student committee
-* [GERAD](https://www.gerad.ca/en)
+* [Northwestern University - Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/)
+
 
 ## **Past activities**:
+* Organizer of [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/) [with support from [CIRRELT](https://www.cirrelt.ca/) and [GERAD](https://www.gerad.ca/en)]
+* [CIRRELT](https://www.cirrelt.ca/) member of the student committee 
 * Treasurer of [EAAMO 2023](https://eaamo.org/)
 * Volunteering and leadership with [Senzatomica](https://senzatomica.it/) (partner with [ICAN](https://www.icanw.org/)) 
 
