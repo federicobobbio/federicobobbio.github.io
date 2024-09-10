@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Federico Bobbio"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at CERC DS4DM"
-  location         : "Montréal, Canada"
+  bio              : "Postdoctoral Researcher at Northwestern University"
+  location         : "Chicago, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Jqzu2xcAAAAJ&hl=en&oi=ao"
-  email            : "federico.bobbio@umontreal.ca"
+  email            : "federico.bobbio@northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -267,7 +267,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
