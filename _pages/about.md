@@ -33,6 +33,7 @@ Algorithmic polycimaking and regulations, computational complexity, game theory,
 
 ## **Affiliations**:
 * [Northwestern University - Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/)
+* [Spectrum X](https://www.spectrumx.org/)
 
 
 ## **Past activities**:
