@@ -35,6 +35,7 @@ Algorithmic mechanism design, optimization, matching theory, spectrum markets, c
 ## **Affiliations**:
 * [Northwestern University - Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/)
 * [Spectrum X](https://www.spectrumx.org/)
+* [Communications and Networking Laboratory](https://sites.northwestern.edu/commnet/)
 
 
 ## **Past activities**:
