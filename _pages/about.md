@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at Northwestern University, affiliated with [Spectrum X](https://www.spectrumx.org/). My postdoctoral advisors are [Michael Honig](http://users.ece.northwestern.edu/~mh/), [Randall Berry](http://users.ece.northwestern.edu/~rberry/), [Rakesh Vohra](https://sites.google.com/site/quaerereverum9/), [Thanh Nguyen](https://web.ics.purdue.edu/~nguye161/), and [Vijay Subramanian](https://subramanian.engin.umich.edu/).
+Hi! I am a Postdoctoral Researcher at Northwestern University, affiliated with [Spectrum X](https://www.spectrumx.org/). My postdoctoral advisors are [Michael Honig](http://users.ece.northwestern.edu/~mh/), [Randall Berry](http://users.ece.northwestern.edu/~rberry/), [Rakesh Vohra](https://sites.google.com/site/quaerereverum9/), [Thanh Nguyen](https://web.ics.purdue.edu/~nguye161/), and [Vijay Subramanian](https://subramanian.engin.umich.edu/).
 
 Prior to this role, I was a Research Consultant at [CERC DS4DM](https://cerc-datascience.polymtl.ca/), where I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/). 
 
-I completed my Ph.D. in Computer Science and Operations Research at Université de Montréal (excellence mention), having had the fortune of receiving guidance from [Margarida Carvalho](http://margaridacarvalho.org). 
+I completed my Ph.D. in Computer Science and Operations Research at Université de Montréal (excellence mention), having had the fortune of receiving guidance from [Margarida Carvalho](http://margaridacarvalho.org). In my [Doctoral Thesis](https://umontreal.scholaris.ca/items/2be0f4de-cb98-4a10-bb9f-837f54a93f0c), I studied dynamic primitives in stable matching, developing models and algorithms that capture capacity planning and contingent priorities.
 
 Before my Ph.D., I worked as a research assistant on the project "Reasoning About Strategic Interaction and Emotions" led by [Pierpaolo Battigalli](https://dec.unibocconi.eu/people/pierpaolo-battigalli). 
 I completed my Master in Theoretical Mathematics (summa cum laude) at the University of Pisa. In my Thesis, written under the supervision of [Alessandro Berarducci](https://people.dm.unipi.it/berardu/), I explored the connection between Logic and Strategic Reasoning. 
 
 
 ## **Research interests**:
-Algorithmic polycimaking and regulations, game theory, matching theory, mathematical optimization, computational complexity. 
+Algorithmic mechanism design, optimization, matching theory, spectrum markets, computational complexity, market design. 
 
 
 ## **Selected awards**:
