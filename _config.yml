@@ -269,6 +269,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+include: ["_pages"]
 
 # Plugins
 plugins:
