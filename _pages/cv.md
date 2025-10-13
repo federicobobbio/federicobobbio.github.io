@@ -15,7 +15,7 @@ Work experience
 ======
 * June 2024: Postdoctoral Researcher at Northwestern University
   * Northwestern University
-  * Advisors: Mike Honig, Randy Berry, Ricky Vohra, Thanh Nguyen, Vijay Subramanian
+  * Advisors: Michael Honig, Randall Berry, Rakesh Vohra, Thanh Nguyen, Vijay Subramanian
 * January 2024 to Summer 2024: Researcher Consultant at [CERC DS4DM](https://cerc-datascience.polymtl.ca/)
 * November 2017 to November 2018: Research Assistant
   * Bocconi University
