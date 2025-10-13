@@ -1,2 +1,2 @@
-[Download CV (PDF)]({{ '/files/cv_bobbio.pdf' | relative_url }}){:target="_blank"}
+[Download CV (PDF)](/files/cv_bobbio.pdf){:target="_blank"}
 
