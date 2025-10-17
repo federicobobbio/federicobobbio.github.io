@@ -4,6 +4,7 @@ collection: teaching
 type: "Models of Operations Research"
 permalink: /teaching/2021-Autumn-teaching-1
 venue: "Université de Montréal, Department of Computer Science and Operations Research"
+date: 2021-2022
 location: "Montréal, Canada"
 ---
 
