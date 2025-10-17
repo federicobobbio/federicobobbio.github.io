@@ -2,7 +2,7 @@
 title: "Costly Measurements to Incentivize Spectrum Sharing"
 collection: research
 permalink: /research/7-costly-measurements
-excerpt: 'with Randall A Berry, Michael L Honig, Thanh Nguyen, Vijay G Subramanian, Rakesh V Vohra. Accepted at IEEE DySPAN 2025. .'
+excerpt: 'with Randall A Berry, Michael L Honig, Thanh Nguyen, Vijay G Subramanian, Rakesh V Vohra. Accepted at IEEE DySPAN 2025. **Best paper award Policy Track**.'
 paperurl: 'https://ieeexplore.ieee.org/iel8/11115070/11115895/11115961.pdf'
 ---
 Connectivity services, ranging from cellular broadband to private networks and satellite communications, are driving an unprecedented demand for spectrum. 
