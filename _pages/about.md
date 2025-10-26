@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Postdoctoral Researcher at Northwestern University, affiliated with [Spectrum X](https://www.spectrumx.org/). My postdoctoral advisors are [Michael Honig](http://users.ece.northwestern.edu/~mh/), [Randall Berry](http://users.ece.northwestern.edu/~rberry/), [Rakesh Vohra](https://sites.google.com/site/quaerereverum9/), [Thanh Nguyen](https://web.ics.purdue.edu/~nguye161/), and [Vijay Subramanian](https://subramanian.engin.umich.edu/).
+Hi! I am a Postdoctoral Researcher at Northwestern University, affiliated with [Spectrum X](https://www.spectrumx.org/). My postdoctoral advisors are [Michael Honig](http://users.ece.northwestern.edu/~mh/), [Randall Berry](http://users.ece.northwestern.edu/~rberry/), [Rakesh Vohra](https://sites.google.com/site/quaerereverum9/), [Thanh Nguyen](https://web.ics.purdue.edu/~nguye161/), and [Vijay Subramanian](https://subramanian.engin.umich.edu/). I am on the **job market**, seeking academic positions and industry research positions. 
 
 Prior to this role, I was a Research Consultant at [CERC DS4DM](https://cerc-datascience.polymtl.ca/), where I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/). 
 
