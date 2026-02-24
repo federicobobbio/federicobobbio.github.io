@@ -1,7 +1,7 @@
 ---
 title: "Capacity Planning in Stable Matching"
 collection: research
-permalink: /research/5-capacity-planning
+permalink: /research/4-capacity-planning
 excerpt: 'with Margarida Carvalho, Andrea Lodi, Ignacio Rios and Alfredo Torrico. Accepted at **Operations Research** (2025), EC 2023, EAAMO 2022, MATCH-UP 2022. **CORS Student Paper Competition - Runner-up award**.'
 paperurl: 'https://arxiv.org/pdf/2110.00734.pdf'
 ---
