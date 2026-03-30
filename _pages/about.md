@@ -38,9 +38,3 @@ Algorithmic mechanism design, optimization, matching theory, spectrum markets, c
 * [Communications and Networking Laboratory](https://sites.northwestern.edu/commnet/)
 
 
-## **Past activities**:
-* Organizer of [Decision Science for Decision Making coffee talks](https://cerc-datascience.polymtl.ca/coffee/) [with support from [CIRRELT](https://www.cirrelt.ca/) and [GERAD](https://www.gerad.ca/en)]
-* [CIRRELT](https://www.cirrelt.ca/) member of the student committee 
-* Treasurer of [EAAMO 2023](https://eaamo.org/)
-* Volunteering and leadership with [Senzatomica](https://senzatomica.it/) (partner with [ICAN](https://www.icanw.org/)) 
-
