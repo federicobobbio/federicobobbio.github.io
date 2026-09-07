@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Federico Bobbio"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at Northwestern University"
-  location         : "Chicago, USA"
+  bio              : "Assistant Professor at Skema Business School"
+  location         : "Lille, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Jqzu2xcAAAAJ&hl=en&oi=ao"
-  email            : "federico.bobbio@northwestern.edu"
+  email            : "federico.bobbio@skema.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
