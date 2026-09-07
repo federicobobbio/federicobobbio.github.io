@@ -33,6 +33,6 @@ Algorithmic mechanism design, optimization, matching theory, spectrum markets, c
 
 
 ## **Affiliations**:
-* [Globalization Academy](https://www.mccormick.northwestern.edu/electrical-computer/](https://www.skema.edu/en/globalisation-academy)
+* [Globalization Academy](https://www.skema.edu/en/globalisation-academy)
 
 
