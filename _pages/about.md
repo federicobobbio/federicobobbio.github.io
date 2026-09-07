@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Postdoctoral Researcher at Northwestern University, affiliated with [Spectrum X](https://www.spectrumx.org/). My postdoctoral advisors are [Michael Honig](http://users.ece.northwestern.edu/~mh/), [Randall Berry](http://users.ece.northwestern.edu/~rberry/), [Rakesh Vohra](https://sites.google.com/site/quaerereverum9/), [Thanh Nguyen](https://web.ics.purdue.edu/~nguye161/), and [Vijay Subramanian](https://subramanian.engin.umich.edu/).  
+Hi! I am an Assistant Professor at SKEMA Business School, affiliated with the Analytics and Operations research centre.
 
-Prior to this role, I was a Research Consultant at [CERC DS4DM](https://cerc-datascience.polymtl.ca/), where I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/). 
+Prior to this role, I was a Postdoctoral Researcher at Northwestern University, affiliated with [Spectrum X](https://www.spectrumx.org/). My postdoctoral advisors are [Michael Honig](http://users.ece.northwestern.edu/~mh/), [Randall Berry](http://users.ece.northwestern.edu/~rberry/), [Rakesh Vohra](https://sites.google.com/site/quaerereverum9/), [Thanh Nguyen](https://web.ics.purdue.edu/~nguye161/), and [Vijay Subramanian](https://subramanian.engin.umich.edu/).  Before that, I was a Research Consultant at [CERC DS4DM](https://cerc-datascience.polymtl.ca/), where I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/). 
 
 I completed my Ph.D. in Computer Science and Operations Research at Université de Montréal (excellence mention), having had the fortune of receiving guidance from [Margarida Carvalho](http://margaridacarvalho.org). In my [Doctoral Thesis](https://umontreal.scholaris.ca/items/2be0f4de-cb98-4a10-bb9f-837f54a93f0c), I studied dynamic primitives in stable matching, developing models and algorithms that capture capacity planning and contingent priorities.
 
@@ -33,8 +33,6 @@ Algorithmic mechanism design, optimization, matching theory, spectrum markets, c
 
 
 ## **Affiliations**:
-* [Northwestern University - Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/)
-* [Spectrum X](https://www.spectrumx.org/)
-* [Communications and Networking Laboratory](https://sites.northwestern.edu/commnet/)
+* [Globalization Academy](https://www.mccormick.northwestern.edu/electrical-computer/](https://www.skema.edu/en/globalisation-academy)
 
 
